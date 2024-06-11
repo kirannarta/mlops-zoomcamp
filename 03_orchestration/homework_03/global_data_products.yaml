@@ -1,0 +1,9 @@
+training_set:
+  object_type: pipeline
+  object_uuid: data_prepration
+  outdated_after:
+    seconds: 600
+  project: homework_03
+  repo_path: /Users/kirannarta/Dropbox (Personal)/Kiran_work/MOOC/MLOps-zoomcamp/03-orchestration/mlops-mage/mlops/homework_03
+  settings:
+    prepare: {}
